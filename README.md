@@ -1,6 +1,7 @@
 <p align="center">
-<img src="Github_README_Banner.gif">
+<img src="https://user-images.githubusercontent.com/69134468/128991927-90d5e97f-96bb-443f-8725-a59e29b7798b.gif">
 </p>    
+
 
 
 <p align="center">
